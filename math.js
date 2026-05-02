@@ -1,0 +1,8 @@
+console.log(Math.abs(-87))
+console.log(Math.round(7.66))
+console.log(Math.ceil(4.35))
+console.log(Math.floor(5.98))
+console.log(Math.pow(2,3))
+console.log(Math.min(...[1,78,47,-4]))
+console.log(Math.max(...[1,38,77,43]))
+console.log(Math.sqrt(5))

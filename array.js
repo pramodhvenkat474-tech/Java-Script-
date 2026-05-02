@@ -1,0 +1,11 @@
+let arr1=[1,2,3,4,5,6,7]
+console.log(arr1.push(8))
+console.log(arr1)
+console.log(arr1.shift())
+console.log(arr1)
+console.log(arr1.unshift(9,8,0))
+console.log(arr1)
+console.log(Array.isArray(arr1))
+console.log(arr1.length)
+console.log(arr1.pop())
+console.log (new Array(7).fill(8))
